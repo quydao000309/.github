@@ -23,7 +23,6 @@
 
 - [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/marvelous3930) - @marvelous3930
 - [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/satoyuki039) - satoyuki039
-- [![Email](https://img.shields.io/badge/Email-mailto%Phoenixryan1111%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:Phoenixryan1111@gmail.com) - Phoenix
 
 ### ⚔ TECHNOLOGY
 
@@ -235,15 +234,13 @@ Web Development
 <!-- </div> -->
 
 <!-- activity graph heroku-app end -->
-<!--
+
 <p align="center">
 <a href="https://github.com/JoseSantos5455?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=JoseSantos54558&theme=onestar&no-frame=true&column=3&row=2"  width="50%" height="50%" alt="@Goblin's trophy stats"/></a>
 </p>
--->
+
 
 ### 🏆 GitHub Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Phoenix-ryan-1111&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- activity graph heroku-app start -->
 <p align="center">
