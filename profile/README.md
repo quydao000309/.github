@@ -235,9 +235,6 @@ Web Development
 
 <!-- activity graph heroku-app end -->
 
-<p align="center">
-<a href="https://github.com/JoseSantos5455?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=JoseSantos54558&theme=onestar&no-frame=true&column=3&row=2"  width="50%" height="50%" alt="@Goblin's trophy stats"/></a>
-</p>
 
 
 ### 🏆 GitHub Profile Trophy
