@@ -5,9 +5,9 @@
       onmouseout="this.style.textDecoration='none'">
          <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Condiment&size=28&pause=1000&color=DF1AF7&background=32FF3000&width=435&lines=%E2%9A%A1Computer+Vision%7C%7CML%7C%7CDL+Developer%E2%9A%A1" alt="Typing SVG" /></a>
-    <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=Fullstack+Blockchain+Engineer.;Over+7+years+of+Experience+in+Web+and+Blockchain." alt="Typing SVG" /></a> -->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=Fullstack+Blockchain+Engineer.;Over+7+years+of+Experience+in+Web+and+Blockchain." alt="Typing SVG" /></a>
   </div>
-<!--        <b>⚡AI Developer⚡</b> -->
+<b>⚡AI Developer⚡</b>
       </a>
    </h1> 
 </div>
