@@ -4,7 +4,6 @@
       onmouseover="this.style.textDecoration='underline'" 
       onmouseout="this.style.textDecoration='none'">
          <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Condiment&size=28&pause=1000&color=DF1AF7&background=32FF3000&width=435&lines=%E2%9A%A1Computer+Vision%7C%7CML%7C%7CDL+Developer%E2%9A%A1" alt="Typing SVG" /></a>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=Fullstack+Blockchain+Engineer.;Over+7+years+of+Experience+in+Web+and+Blockchain." alt="Typing SVG" /></a>
   </div>
 <b>⚡AI Developer⚡</b>
@@ -22,15 +21,14 @@
 
 ### 🌐 Connect with me:
 
-- [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/Minato_95) - @Minato_95
-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/Phoenix_9510) - Phoenix_9510
-<!-- - [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=flat&logo=skype&logoColor=white)](skype:live:.cid.16dac497b946b44b?chat) - live:.cid.16dac497b946b44b -->
-<!-- - [![Email](https://img.shields.io/badge/Email-mailto%Phoenixryan1111%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:Phoenixryan1111@gmail.com) - Phoenix -->
+- [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/marvelous3930) - @marvelous3930
+- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/satoyuki039) - satoyuki039
+- [![Email](https://img.shields.io/badge/Email-mailto%Phoenixryan1111%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:Phoenixryan1111@gmail.com) - Phoenix
 
 ### ⚔ TECHNOLOGY
 
-<!-- <div align="center"> -->
-<!-- Web Development -->
+<div align="center">
+Web Development
 <table align="center">
   <tr>
     <td align="center" width="123.4">
