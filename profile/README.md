@@ -22,7 +22,7 @@
 ### 🌐 Connect with me:
 
 - [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/marvelous3930) - @marvelous3930
-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/satoyuki039) - satoyuki039
+- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/satoyuki039) - satoyuki039.
 
 ### ⚔ TECHNOLOGY
 
